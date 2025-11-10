@@ -132,13 +132,26 @@
   font-size: $type-size-5;
 }
 
+
 .sidebar .author__desktop {
-  white-space: normal;
   display: none;
   @media screen and (min-width: 1024px) {
     display: block;
   }
 }
+
+//***********
+.sidebar .author__urls.social-icons li.author__desktop {
+  display: none; /* 默认在移动端隐藏 */
+
+  @media screen and (min-width: 1024px) {
+    display: block;            /* 在桌面上显示为块级元素 (占单独一行) */
+    white-space: normal;       /* 覆盖掉 .author__urls li 里的 nowrap */
+    overflow-wrap: break-word; /* (保险) 允许长单词内部换行 */
+  
+  }
+}
+
 
 .author__pronouns {
   margin: 0;
