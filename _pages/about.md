@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Ever since learing and winning robotics competitions in my youth, I've been fascinated by robotics. This passion led me to Binghamton University to pursue a Master's degree in Computer Science.  
-### As a Research Assistant in the binghamton AIR (Autonomous Intelligent Robotics) Group, I've channeled this passion into practical projects, gaining deep experience with the Unitree quadruped and human robot and the OmniGibson simulation platform. I am dedicated to turning theory into reality, building intelligent robots that can genuinely help people.
+### As a Research Assistant in the binghamton AIR (Autonomous Intelligent Robotics) Group, I've channeled this passion into practical projects, gaining deep experience with the Unitree quadruped and human robot and the OmniGibson simulation platform. I am dedicated to turning theory into reality, building intelligent robots that can genuinely help people.  
 
 
 [Download CV](/files/CV.pdf){: .btn }
