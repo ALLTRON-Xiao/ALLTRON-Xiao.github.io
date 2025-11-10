@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Hi, I'm Furui Xiao"
+title: "Hi, I'm Furui Xiao"
 author_profile: true
 redirect_from: 
   - /about/
