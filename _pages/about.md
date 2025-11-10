@@ -16,18 +16,18 @@ redirect_from:
 
 Featured Projects
 ------
-* PROJECT1: dacing robot here's introduction.
-
+* PROJECT1: dacing robot here's introduction.  
     Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
 
-* PROJECT2: dialog navigation here's introduction.
+* PROJECT2: dialog navigation here's introduction.  
     Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
 
-* PROJECT3: here's introduction.
-
+* PROJECT3: here's introduction.  
   Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
 
 
 Skills Overview
 ------
-python, C,leadship.
+* Programming Languages: C, Python, ...  
+* Frameworks & Technologies: ROS, Omnigibson, ...  
+* Tools: Git, Linux, ...  
